@@ -1,0 +1,53 @@
+{
+  "format": "lpdx",
+  "version": 1,
+  "app": "LightDoc Palace Studio",
+  "rightsHolder": "The Palace Tech House",
+  "exportedAt": "2026-03-17T10:00:00.000Z",
+  "document": {
+    "id": "sample-palace-doc",
+    "starred": true,
+    "meta": {
+      "title": "Welcome to LightDoc Reader",
+      "description": "A sample LightDoc file for testing the reader interface.",
+      "author": "The Palace Tech House",
+      "updatedAt": "2026-03-17T09:45:00.000Z",
+      "theme": "royal",
+      "tags": ["sample", "reader", "lpdx"]
+    },
+    "blocks": [
+      {
+        "id": "1",
+        "type": "title",
+        "content": "Welcome to LightDoc Reader"
+      },
+      {
+        "id": "2",
+        "type": "paragraph",
+        "content": "This reader opens Light Progressive Document Exchange files and presents them in a clean, mobile-friendly layout."
+      },
+      {
+        "id": "3",
+        "type": "heading",
+        "content": "What it can do"
+      },
+      {
+        "id": "4",
+        "type": "checklist",
+        "content": "Open .lpdx files from your device",
+        "checked": true
+      },
+      {
+        "id": "5",
+        "type": "checklist",
+        "content": "Render metadata, text blocks, quotes, and checklists",
+        "checked": true
+      },
+      {
+        "id": "6",
+        "type": "quote",
+        "content": "Built by The Palace Tech House for the LightDoc ecosystem."
+      }
+    ]
+  }
+}

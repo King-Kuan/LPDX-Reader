@@ -1,0 +1,16 @@
+{
+  "name": "LightDoc Reader",
+  "short_name": "LD Reader",
+  "description": "A responsive .lpdx reading app by The Palace Tech House",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
